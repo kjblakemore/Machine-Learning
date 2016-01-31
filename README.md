@@ -4,6 +4,8 @@ This repository contains projects from the Machine Learning Course taught by And
 
 The course is an introduction to machine learning, data mining and statistical pattern recognition.
 
+Programming was done using GNU Octave, a public domain version of Matlab.
+
 ## Models and Algorithms Developed
 * Linear regression to predict profits of a food truck and dam water flow.
 * Logistic regression to predict university admission and microchip quality.
